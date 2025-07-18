@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "BOONG HUB",
-         Animation = "Youtube: TBoy Roblox"
+         Animation = "Youtube: DUCZ ROBLOX"
          },
         Key = {
         KeySystem = false,
